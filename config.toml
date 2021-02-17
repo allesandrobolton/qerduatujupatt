@@ -1,0 +1,4 @@
+baseURL = "https://poems-lifesyle45.vercel.app"
+languageCode = "en-us"
+title = "Poems About Friendship"
+theme = "hugo-theme-minos"
